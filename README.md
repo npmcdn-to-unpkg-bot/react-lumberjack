@@ -28,7 +28,7 @@ require('react-lumberjack')
 or
 
 ```xml
-<script src="https://npmcdn.com/react-lumberjack@1.0.0"></script>
+<script src="https://unpkg.com/react-lumberjack@1.0.0"></script>
 ```
 
 Make sure not to include it in your production build, ofc.
